@@ -1,6 +1,6 @@
 ### Hola aqui 👋
 
-Me llamo **Juan Cruz Linsalata**, tengo 20 años, vivo en Argentina y soy un desarrollador Backend.  
+Me llamo **Juan Cruz Linsalata**, tengo 21 años, vivo en Argentina y soy un desarrollador Backend.  
 
 ### Actualmente trabajo en ⚙️
 
