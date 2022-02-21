@@ -35,4 +35,6 @@ Soy autor de varios plugins conocidos enfocado a la seguridad, entre ellos:
 ### Mas sobre mi ✨
 
 - 🌱 Actualmente estoy aprendiendo: Frontend
-- 📫 Como contactarme: [Twitter](https://twitter.com/linsaftw) or [Email](mailto:linsaftw@gmail.com)
+- 📫 Como contactarme: [Twitter](https://twitter.com/linsaftw) [Email](mailto:linsaftw@gmail.com)
+- 💰 PayPal: linsaftw@gmail.com
+- ☎ Discord: LinsaFTW#1619
