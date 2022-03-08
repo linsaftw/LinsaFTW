@@ -1,21 +1,21 @@
-### Hola aqui 👋
+### Hello there 👋
 
-Me llamo **Juan Cruz Linsalata**, tengo 21 años, vivo en Argentina y soy un desarrollador Backend.  
+My name is **Juan Cruz Linsalata**, I am 21 years old, I live in Argentina and I am a Backend Developer.  
 
-### Actualmente trabajo en ⚙️
+### My works ⚙️
 
-Trabajo como Freelancer creando plugins para Minecraft (Java), tambien tengo mi propio servidor de este mismo. ([ArkFlame](https://arkflame.com))  
+I work as a freelancer making plugins for Minecraft (Java Edition) and own a server. ([ArkFlame](https://arkflame.com))  
 
-### Mis proyectos 📁
+### My projects 📁
 
-Soy autor de varios plugins conocidos enfocado a la seguridad, entre ellos:
+I am author of projects focused in security:
 - [AntiBot](https://github.com/2lstudios-mc/antibot)  
 - [ExploitFixer](https://github.com/2lstudios-mc/exploitfixer)
 - [FlameCord](https://github.com/2lstudios-mc/flamecord)  
 - [FlamePaper](https://github.com/2lstudios-mc/flamepaper)  
 - [HamsterAPI](https://github.com/2lstudios-mc/hamsterapi)   
 
-### Mi Stack de habilidades 📚
+### My Stack 📚
 
 <p align="left">
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/csharp.png' height='42px'/>
@@ -32,9 +32,9 @@ Soy autor de varios plugins conocidos enfocado a la seguridad, entre ellos:
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/sql.png' height='42px'>
 </p>
 
-### Mas sobre mi ✨
+### More from me ✨
 
-- 🌱 Actualmente estoy aprendiendo: Frontend
-- 📫 Como contactarme: [Twitter](https://twitter.com/linsaftw) [Email](mailto:linsaftw@gmail.com)
+- 🌱 I am learning: Frontend
+- 📫 Contact me: [Twitter](https://twitter.com/linsaftw) [Email](mailto:linsaftw@gmail.com)
 - 💰 PayPal: linsaftw@gmail.com
 - ☎ Discord: LinsaFTW#1619
