@@ -1,40 +1,31 @@
-### Hello there 👋
+# Juan Cruz Linsalata - @linsaftw 👋
 
-My name is **Juan Cruz Linsalata**, I am 21 years old, I live in Argentina and I am a Backend Developer.  
+Hi there! I'm Juan Cruz Linsalata, a CEO and full-stack developer from Argentina. I have over 8 years of experience in server administration and 3 years of experience in software development. I specialize in web design, app development and game development using various technologies and frameworks.
 
-### My works ⚙️
+## 🔭 What I'm working on ...
 
-I work as a freelancer making plugins for Minecraft (Java Edition) and own a server. ([ArkFlame](https://arkflame.com))  
+- ArkFlame Network, a Minecraft server network with custom plugins and features.
+- [2LStudios](https://github.com/2lstudios-mc), a software development company that offers web design, app development and game development services.
 
-### My projects 📁
+## 💻 Some of my projects ...
 
-I am author of projects focused in security:
-- [AntiBot](https://github.com/2lstudios-mc/antibot)  
-- [ExploitFixer](https://github.com/2lstudios-mc/exploitfixer)
-- [FlameCord](https://github.com/2lstudios-mc/flamecord)  
-- [FlamePaper](https://github.com/2lstudios-mc/flamepaper)  
-- [HamsterAPI](https://github.com/2lstudios-mc/hamsterapi)   
+Here are some of the projects that I have created or contributed to:
 
-### My Stack 📚
+- [FlameCord](https://github.com/2lstudios-mc/FlameCord), a fork of Waterfall that improves performance and security of BungeeCord networks.
+- [ExploitFixer](https://github.com/2lstudios-mc/ExploitFixer), a plugin that protects your server from various exploits and attacks such as crashers, overflows and bots.
+- [HamsterAPI](https://github.com/2lstudios-mc/HamsterAPI), a plugin that provides an API for packet manipulation and event handling on Spigot servers.
 
-<p align="left">
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/csharp.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/debian.webp' height='42px'/>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/html.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/java.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mongo.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mariadb.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mysql.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nodejs.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/python.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/sql.png' height='42px'>
-</p>
+## 🌱 What I'm learning ...
 
-### More from me ✨
+- React Native, a framework for building native apps using React.
+- Flutter, a toolkit for building beautiful apps for mobile, web and desktop from a single codebase.
 
-- 🌱 I am learning: Frontend
-- 📫 Contact me: [Twitter](https://twitter.com/linsaftw) [Email](mailto:linsaftw@gmail.com)
-- 💰 PayPal: linsaftw@gmail.com
-- ☎ Discord: LinsaFTW#1619
+## 📫 How to reach me ...
+
+You can find me on these social networks:
+
+- GitHub: [linsaftw](https://github.com/LinsaFTW)
+- YouTube: [LinsaFTW](https://www.youtube.com/c/LinsaFTW)
+- Twitter: [@LinsaFTW](https://twitter.com/LinsaFTW)
+
+Feel free to contact me if you have any questions or suggestions. I'm always open to new ideas and collaborations. 😊
