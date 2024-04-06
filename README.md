@@ -1,5 +1,5 @@
 ## $ whoami
-Hi, I'm LinsaFTW, software developer and entrepeneur from Argentina <img src="https://em-content.zobj.net/source/facebook/230/flag-for-argentina_1f1e6-1f1f7.png" alt="X" width="14"/>.
+Hi, I'm LinsaFTW, software developer and entrepeneur from Argentina.
 <br/>
 I've worked on many projects through my 10 years of being a fullstack developer, giving me experience on many languages, mostly Java.
 ### Social Links
