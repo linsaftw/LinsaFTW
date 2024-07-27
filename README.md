@@ -24,3 +24,21 @@ I've worked on many projects through my 10 years of being a fullstack developer,
 
 <a href="https://github.com/arkflame"><img src="https://github.com/user-attachments/assets/9665b8dc-cd05-47f6-9bbb-20ceaab563e5" alt="ArkFlame Development" width="52" height="52"></a>
 <a href="https://x.com/arkflamenetwork"><img src="https://github.com/user-attachments/assets/ab46d729-aa5a-47ac-8361-7aba57e24b21" alt="ArkFlame Network" width="52" height="52"></a>
+
+## Know me in detail
+
+I am a passionate developer that started in 2013 making his own Minecraft server called Battleon2 (Yes, inspired from the original Adventure Quest game) that then got renamed to CalyptoCraft, JoltCraft, Legion Escorpion and lastly, ArkFlame Network.
+
+While developing my own Minecraft server, I faced many issues like bot attacks and performance slowdowns. This led me to discover tools like Linux, iptables, Java and the Bukkit API to make my own solutions to improve security and performance of my Minecraft servers because of the lack of effective solutions to those problems.
+
+I started by switching to Linux, which was a challenge to me being used to the Windows operative system and knowing nothing about code or commands, but I knew it was a long term investment that was worth it so I worked hard on learning it from scratch and got all it's security and performance benefits.
+
+I then learned about hosting providers and how to identify good and bad ones. I understood that hosting providers must not only provide the resources as announced in numbers but to also provide an infrastructure with integrated security, stability, quality and performance.
+
+I also installed my own machine in a data center near my home, and again, you must be able to properly understand data centers and providers to make a good choice as they can also provide very poor quality.
+
+While facing those drawbacks, I also learned to develop my own plugins and BungeeCord / Paper Spigot modifications to improve native performance and security and integrate anti-bot systems. Anti-bot systems at that time were always installed as plugins which led to performance issues due to the Spigot API using reflection to run the event handlers and running late. This is how FlameCord and FlamePaper started.
+
+It was first a solution for my own server, but then I noticed I could also publish this on public platforms like SpigotMC and MC-Market (now BuiltByBit) to not only provide other people with solutions that were not there but to also receive feedback from the community and improve my own. All those projects were open-source and free to download.
+
+This led to a big community now called the ArkFlame Development community, which is still growing each day and now generating revenue to finance it's own and new projects. We already expanded our plugin repository to more categories as chat protection (ChatSentinel), redstone limiting (RedstoneLimiter), exploit fixing (ExploitFixer), and many more, having a mixed set of paid/free open-source solutions for everybody.
