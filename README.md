@@ -1,7 +1,4 @@
-## $ whoami
-I'm LinsaFTW, software developer and entrepeneur from Argentina.
-<br/>
-I've worked on many projects through my 10 years of being a fullstack developer, giving me experience on many languages, mostly Java.
+Software developer from Argentina. What started as a simple game and hobby, ended up as my job. I do plugin development for Minecraft servers and entrepeneurship.
 
 ### Social Links
 
