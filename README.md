@@ -1,5 +1,4 @@
-Software developer from Argentina since 2013.
-What started as a simple hobby, ended up as my job. I do plugin development for Minecraft servers and entrepeneurship.
+Software developer from Argentina since 2013. What started as a simple hobby ended up as my job. I do plugin development for Minecraft servers and entrepeneurship.
 
 ### Social Links
 
