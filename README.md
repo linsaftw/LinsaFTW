@@ -2,7 +2,7 @@ Software developer from Argentina since 2010. What started as a simple hobby end
 
 ### Minecraft Plugins
 
-<a href="https://builtbybit.com/members/linsaftw.152552/"><img src="https://github.com/user-attachments/assets/5a53a364-7034-4408-b7aa-d62d7ae5389d" alt="BuiltByBit" width="52" height="52"></a>
+<a href="https://builtbybit.com/creators/linsaftw.152552"><img src="https://github.com/user-attachments/assets/5a53a364-7034-4408-b7aa-d62d7ae5389d" alt="BuiltByBit" width="52" height="52"></a>
 <a href="https://www.spigotmc.org/resources/authors/linsaftw.88052/"><img src="https://github.com/user-attachments/assets/87265622-40b9-4b09-adef-6af296c4e6b6" alt="SpigotMC" width="52" height="52"></a>
 <a href="https://polymart.org/user/19521/linsaftw"><img src="https://avatars.githubusercontent.com/u/71634013?s=200&v=4" alt="Polymart" width="52" height="52"></a>
 
