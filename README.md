@@ -1,13 +1,17 @@
 Software developer from Argentina since 2010. What started as a simple hobby ended up as my job. I do plugin development for Minecraft servers and entrepeneurship.
 
+### Minecraft Plugins
+
+<a href="https://builtbybit.com/members/linsaftw.152552/"><img src="https://github.com/user-attachments/assets/5a53a364-7034-4408-b7aa-d62d7ae5389d" alt="BuiltByBit" width="52" height="52"></a>
+<a href="https://www.spigotmc.org/resources/authors/linsaftw.88052/"><img src="https://github.com/user-attachments/assets/87265622-40b9-4b09-adef-6af296c4e6b6" alt="SpigotMC" width="52" height="52"></a>
+<a href="https://polymart.org/user/19521/linsaftw"><img src="https://github.com/user-attachments/assets/87265622-40b9-4b09-adef-6af296c4e6b6" alt="Polymart" width="52" height="52"></a>
+
 ### Social Links
 
 <a href="https://twitter.com/linsaftw"><img src="https://github.com/user-attachments/assets/6ed9d160-174b-4ea0-a9f1-455ee2fcc8ee" alt="X" width="52" height="52"></a>
 <a href="https://www.youtube.com/c/linsaftw/"><img src="https://github.com/user-attachments/assets/a9ed08db-8e0b-47a4-bc12-3768493c8cac" alt="YouTube" width="52" height="52"></a>
 <a href="https://www.twitch.tv/linsaftw"><img src="https://github.com/user-attachments/assets/4e6533aa-323d-4e12-944f-2bbc6d9ee5ac" alt="Twitch" width="52" height="52"></a>
 <a href="https://www.linkedin.com/in/linsaftw/"><img src="https://github.com/user-attachments/assets/3c283997-5cf7-4b3e-81ab-f74f313e5cbb" alt="Linkedin" width="52" height="52"></a>
-<a href="https://builtbybit.com/members/linsaftw.152552/"><img src="https://github.com/user-attachments/assets/5a53a364-7034-4408-b7aa-d62d7ae5389d" alt="BuiltByBit" width="52" height="52"></a>
-<a href="https://www.spigotmc.org/resources/authors/linsaftw.88052/"><img src="https://github.com/user-attachments/assets/87265622-40b9-4b09-adef-6af296c4e6b6" alt="SpigotMC" width="52" height="52"></a>
 <a href="https://www.reddit.com/user/LinsaFTW/"><img src="https://github.com/user-attachments/assets/8acdc411-8f49-47a4-a784-7980d13e7946" alt="Reddit" width="52" height="52"></a>
 
 ### Projects
