@@ -28,7 +28,7 @@ Software developer from Argentina. Coding since 2010. I do Minecraft stuff and A
 
 ## Know me in detail
 
-I am a passionate developer that started in 2013 making his own Minecraft server called Battleon2 (Yes, inspired from the original Adventure Quest game) that then got renamed to CalyptoCraft, JoltCraft, Legion Escorpion and lastly, ArkFlame Network.
+I am a passionate developer that started in 2010 making his own Minecraft server called Battleon2 (Yes, inspired from the original Adventure Quest game) that then got renamed to CalyptoCraft, JoltCraft, Legion Escorpion and lastly, ArkFlame Network.
 
 While developing my own Minecraft server, I faced many issues like bot attacks and performance slowdowns. This led me to discover tools like Linux, iptables, Java and the Bukkit API to make my own solutions to improve security and performance of my Minecraft servers because of the lack of effective solutions to those problems.
 
