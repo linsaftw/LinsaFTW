@@ -1,45 +1,86 @@
-Software developer from Argentina. Coding since 2010. I do Minecraft stuff and AI research. What started as a simple hobby ended up as my job. I do plugin development for Minecraft servers and entrepeneurship.
+# 👋 About Me
 
-### Minecraft Plugins
+Software developer from Argentina.  
+Coding since 2010. What started as a simple hobby ended up becoming my profession. I specialize in Minecraft development and AI research, with a strong focus on performance, security, and server architecture.
+
+I build high-performance plugins and server modifications for Minecraft and actively pursue entrepreneurship in the software space.
+
+---
+
+## 🧱 Minecraft Development
+
+I create plugins and custom forks for Minecraft servers using Spigot, Paper, and BungeeCord/Waterfall platforms.  
+My focus is on performance, stability, anti-exploit systems, and solving real issues that server owners face.
+
+---
+
+## 🔌 Plugin Marketplaces
 
 <a href="https://builtbybit.com/creators/linsaftw.152552"><img src="https://github.com/user-attachments/assets/5a53a364-7034-4408-b7aa-d62d7ae5389d" alt="BuiltByBit" width="52" height="52"></a>
 <a href="https://www.spigotmc.org/resources/authors/linsaftw.88052/"><img src="https://github.com/user-attachments/assets/87265622-40b9-4b09-adef-6af296c4e6b6" alt="SpigotMC" width="52" height="52"></a>
 <a href="https://polymart.org/user/19521/linsaftw"><img src="https://avatars.githubusercontent.com/u/71634013?s=200&v=4" alt="Polymart" width="52" height="52"></a>
 
-### Social Links
+---
 
-<a href="https://twitter.com/linsaftw"><img src="https://github.com/user-attachments/assets/6ed9d160-174b-4ea0-a9f1-455ee2fcc8ee" alt="X" width="52" height="52"></a>
-<a href="https://www.youtube.com/c/linsaftw/"><img src="https://github.com/user-attachments/assets/a9ed08db-8e0b-47a4-bc12-3768493c8cac" alt="YouTube" width="52" height="52"></a>
-<a href="https://www.twitch.tv/linsaftw"><img src="https://github.com/user-attachments/assets/4e6533aa-323d-4e12-944f-2bbc6d9ee5ac" alt="Twitch" width="52" height="52"></a>
-<a href="https://www.linkedin.com/in/linsaftw/"><img src="https://github.com/user-attachments/assets/3c283997-5cf7-4b3e-81ab-f74f313e5cbb" alt="Linkedin" width="52" height="52"></a>
-<a href="https://www.reddit.com/user/LinsaFTW/"><img src="https://github.com/user-attachments/assets/8acdc411-8f49-47a4-a784-7980d13e7946" alt="Reddit" width="52" height="52"></a>
+## 📦 Projects
 
-### Projects
+**🔥 Featured Plugins & Software**
 
-<a href="https://www.flamecord.com"><img src="https://github.com/user-attachments/assets/0e87f3f9-e917-452d-8e3c-4857c5dd9b23" alt="FlameCord" width="52" height="52"></a>
-<a href="https://builtbybit.com/resources/26463/"><img src="https://github.com/user-attachments/assets/3315a4cf-ff86-4b83-ac77-c959833b1d8f" alt="ExploitFixer" width="52" height="52"></a>
-<a href="https://builtbybit.com/resources/redstonelimiter-smart-redstone-limiter.23133/"><img src="https://github.com/user-attachments/assets/65bfdb46-7acf-49a9-90ea-23f324dcb1fe" alt="RedstoneLimiter" width="52" height="52"></a>
-<a href="https://builtbybit.com/resources/staffmodex.42976/"><img src="https://github.com/user-attachments/assets/baec2f95-81af-4255-a03e-58febf1696cd" alt="StaffModeX" width="52" height="52"></a>
+- **FlameCord** – Optimized Waterfall fork with anti-bot and performance features.  
+- **ExploitFixer** – Patch plugin to fix in-game exploits and crashes.  
+- **RedstoneLimiter** – Smart limiter for redstone performance.  
+- **StaffModeX** – Moderation toolset for server staff.
 
-### Companies
+---
+
+## 🏢 Companies
+
+I founded and operate under **ArkFlame**, a software development brand focused on Minecraft server tools and server optimization.
 
 <a href="https://github.com/arkflame"><img src="https://github.com/user-attachments/assets/9665b8dc-cd05-47f6-9bbb-20ceaab563e5" alt="ArkFlame Development" width="52" height="52"></a>
 <a href="https://x.com/arkflamenetwork"><img src="https://github.com/user-attachments/assets/ab46d729-aa5a-47ac-8361-7aba57e24b21" alt="ArkFlame Network" width="52" height="52"></a>
 
-## Know me in detail
+---
 
-I am a passionate developer that started in 2010 making his own Minecraft server called Battleon2 (Yes, inspired from the original Adventure Quest game) that then got renamed to CalyptoCraft, JoltCraft, Legion Escorpion and lastly, ArkFlame Network.
+## 🌐 Socials
 
-While developing my own Minecraft server, I faced many issues like bot attacks and performance slowdowns. This led me to discover tools like Linux, iptables, Java and the Bukkit API to make my own solutions to improve security and performance of my Minecraft servers because of the lack of effective solutions to those problems.
+<a href="https://twitter.com/linsaftw"><img src="https://github.com/user-attachments/assets/6ed9d160-174b-4ea0-a9f1-455ee2fcc8ee" alt="X" width="52" height="52"></a>
+<a href="https://www.youtube.com/c/linsaftw/"><img src="https://github.com/user-attachments/assets/a9ed08db-8e0b-47a4-bc12-3768493c8cac" alt="YouTube" width="52" height="52"></a>
+<a href="https://www.twitch.tv/linsaftw"><img src="https://github.com/user-attachments/assets/4e6533aa-323d-4e12-944f-2bbc6d9ee5ac" alt="Twitch" width="52" height="52"></a>
+<a href="https://www.linkedin.com/in/linsaftw/"><img src="https://github.com/user-attachments/assets/3c283997-5cf7-4b3e-81ab-f74f313e5cbb" alt="LinkedIn" width="52" height="52"></a>
+<a href="https://www.reddit.com/user/LinsaFTW/"><img src="https://github.com/user-attachments/assets/8acdc411-8f49-47a4-a784-7980d13e7946" alt="Reddit" width="52" height="52"></a>
 
-I started by switching to Linux, which was a challenge to me being used to the Windows operative system and knowing nothing about code or commands, but I knew it was a long term investment that was worth it so I worked hard on learning it from scratch and got all it's security and performance benefits.
+---
 
-I then learned about hosting providers and how to identify good and bad ones. I understood that hosting providers must not only provide the resources as announced in numbers but to also provide an infrastructure with integrated security, stability, quality and performance.
+## 📖 My Journey
 
-I also installed my own machine in a data center near my home, and again, you must be able to properly understand data centers and providers to make a good choice as they can also provide very poor quality.
+In 2010, I launched my first Minecraft server **Battleon2**, inspired by Adventure Quest. Over time, the server evolved through different names: **CalyptoCraft**, **JoltCraft**, **Legion Escorpion**, and eventually **ArkFlame Network**.
 
-While facing those drawbacks, I also learned to develop my own plugins and BungeeCord / Paper Spigot modifications to improve native performance and security and integrate anti-bot systems. Anti-bot systems at that time were always installed as plugins which led to performance issues due to the Spigot API using reflection to run the event handlers and running late. This is how FlameCord and FlamePaper started.
+Running my own server brought real technical challenges—bot attacks, lag, memory leaks—which forced me to learn how to defend and optimize my server stack. That's when I discovered Linux, iptables, Java, and the Bukkit API.
 
-It was first a solution for my own server, but then I noticed I could also publish this on public platforms like SpigotMC and MC-Market (now BuiltByBit) to not only provide other people with solutions that were not there but to also receive feedback from the community and improve my own. All those projects were open-source and free to download.
+Despite being unfamiliar with Linux, I dove in. It was difficult at first, switching from Windows and not knowing a single command—but I was determined. Eventually, I learned how to leverage it for maximum performance and hardened security.
 
-This led to a big community now called the ArkFlame Development community, which is still growing each day and now generating revenue to finance it's own and new projects. We already expanded our plugin repository to more categories as chat protection (ChatSentinel), redstone limiting (RedstoneLimiter), exploit fixing (ExploitFixer), and many more, having a mixed set of paid/free open-source solutions for everybody.
+---
+
+## 📡 Hardware & Hosting
+
+I also explored the world of hosting providers and data centers. I learned that not all providers are created equal—many promise resources but fail to deliver stability and backend quality. I even set up my own physical machine in a nearby data center to have full control over infrastructure.
+
+---
+
+## 🔧 From Plugins to Platforms
+
+Later on, I started developing my own plugins and forks of BungeeCord and Paper to solve performance and security problems from the core. One major issue was how most anti-bot systems were plugin-based and added unnecessary load through reflection. So I made **FlameCord** and **FlamePaper**—leaner, faster, more secure alternatives.
+
+What began as internal tools for my server turned into public projects. I began publishing them on **SpigotMC** and **BuiltByBit** so others could benefit from the same tools—and so I could learn from the feedback of the community. Initially all open source and free.
+
+Now, this effort has evolved into a community: **ArkFlame Development**, a growing ecosystem of tools and server tech with both free and paid plugins for broader Minecraft use cases—chat filtering (ChatSentinel), exploit fixing (ExploitFixer), and more.
+
+---
+
+## 🚀 What's Next?
+
+- Expanding plugin categories  
+- Investing in AI and server-side automation  
+- Building cross-platform tools beyond Minecraft  
+- Mentoring developers and giving back to the open-source community  
