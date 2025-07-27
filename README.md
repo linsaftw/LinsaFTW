@@ -275,7 +275,7 @@ Juan has transformed his ADHD diagnosis into a competitive advantage through str
 </p>
 
 <p align="center">
-  <a href="mailto:collab@arkflame.dev"><img src="https://img.shields.io/badge/Email-collab%40arkflame.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:linsaftw@arkflame.com"><img src="https://img.shields.io/badge/Email-linsaftw%40arkflame.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/sponsors/LinsaFTW"><img src="https://img.shields.io/badge/GitHub-Sponsor-ea4aaa?style=for-the-badge&logo=github-sponsors" /></a>
 </p>
 
