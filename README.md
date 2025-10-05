@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>🇦🇷 Argentinian Software Architect | Founder @ ArkFlame | Minecraft Infrastructure Pioneer | AI Engineering Researcher</strong>
+  <strong>🇦🇷 Argentinian Software Architect | Founder of ArkFlame | Minecraft Infrastructure Pioneer | AI Engineering Researcher</strong>
 </p>
 
 <p align="center">
