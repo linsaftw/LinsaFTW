@@ -1,5 +1,7 @@
 # Juan Cruz Linsalata (LinsaFTW)
 
+Best known for making FlameCord, ExploitFixer, VeloFlame and other innovative Minecraft plugins. Top creator at BuiltByBit.
+
 <p align="center">
 <a href="https://github.com/LinsaFTW"><img src="https://img.shields.io/badge/GitHub-LinsaFTW-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/linsaftw/"><img src="https://img.shields.io/badge/LinkedIn-linsaftw-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
